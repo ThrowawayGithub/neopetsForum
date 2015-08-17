@@ -1,2 +1,2 @@
 # neopetsForum
-Only discuss Neopets plz.
+Only discuss Neopets pls. All non Neopets discussion will be immediately removed.
